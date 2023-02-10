@@ -1,4 +1,4 @@
-Dest=82;ImageVersion=FFFFFFFF;SystemVersion=1.0000;CDN_Timeout=30;CDN= http://www.myexampleserver.com/PS3UPDAT.PUP.100.001;
-Dest=82;ImageVersion=FFFFFFFF;SystemVersion=2.0000;CDN_Timeout=30;CDN= http://www.myexampleserver.com/PS3UPDAT.PUP.200.001;
-Dest=82;ImageVersion=FFFFFFFF;SystemVersion=4.8900;CDN_Timeout=30;CDN= http://www.myexampleserver.com/PS3UPDAT.PUP.200.001;
-Dest=82;ImageVersion=FFFFFFFF;SystemVersion=4.9000;CDN_Timeout=30;CDN= http://www.myexampleserver.com/PS3UPDAT.PUP.200.001;
+Dest=82;ImageVersion=FFFFFFFF;SystemVersion=1.0000;CDN_Timeout=30;CDN=http://www.myexampleserver.com/PS3UPDAT.PUP.100.001;
+Dest=82;ImageVersion=FFFFFFFF;SystemVersion=2.0000;CDN_Timeout=30;CDN=http://www.myexampleserver.com/PS3UPDAT.PUP.200.001;
+Dest=82;ImageVersion=FFFFFFFF;SystemVersion=4.8900;CDN_Timeout=30;CDN=http://www.myexampleserver.com/PS3UPDAT.PUP.200.001;
+Dest=82;ImageVersion=FFFFFFFF;SystemVersion=4.9000;CDN_Timeout=30;CDN=http://www.myexampleserver.com/PS3UPDAT.PUP.200.001;
