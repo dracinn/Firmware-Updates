@@ -1,4 +1,39 @@
-Dest=82;ImageVersion=FFFFFFFF;SystemVersion=1.0000;CDN_Timeout=30;CDN=http://www.myexampleserver.com/PS3UPDAT.PUP.100.001;
-Dest=82;ImageVersion=FFFFFFFF;SystemVersion=2.0000;CDN_Timeout=30;CDN=http://www.myexampleserver.com/PS3UPDAT.PUP.200.001;
-Dest=82;ImageVersion=FFFFFFFF;SystemVersion=4.8900;CDN_Timeout=30;CDN=http://www.myexampleserver.com/PS3UPDAT.PUP.200.001;
-Dest=82;ImageVersion=FFFFFFFF;SystemVersion=4.9000;CDN_Timeout=30;CDN=http://www.myexampleserver.com/PS3UPDAT.PUP.200.001;
+# JP
+Dest=83;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=83;ImageVersion=99999;SystemSoftwareVersion=;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
+# US
+Dest=84;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=84;ImageVersion=99999;SystemSoftwareVersion=;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
+# EU
+Dest=85;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=85;ImageVersion=99999;SystemSoftwareVersion=;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
+# KR
+Dest=86;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=86;ImageVersion=99999;SystemSoftwareVersion=;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
+# UK
+Dest=87;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=87;ImageVersion=99999;SystemSoftwareVersion=;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
+# MX
+Dest=88;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=88;ImageVersion=99999;SystemSoftwareVersion=;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
+# AU/NZ
+Dest=89;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=89;ImageVersion=99999;SystemSoftwareVersion=;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
+# SouthAsia
+Dest=8A;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=8A;ImageVersion=99999;SystemSoftwareVersion=;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
+# TW
+Dest=8B;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=8B;ImageVersion=99999;SystemSoftwareVersion=;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
+# RU
+Dest=8C;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=8C;ImageVersion=99999;SystemSoftwareVersion=;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
+# CN
+Dest=8D;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=8D;ImageVersion=99999;SystemSoftwareVersion=;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
+# BR
+Dest=8F;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=8F;ImageVersion=99999;SystemSoftwareVersion=;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
+#Unknown
+Dest=82;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9000;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
