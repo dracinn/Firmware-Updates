@@ -35,6 +35,9 @@ Dest=8D;ImageVersion=99999;SystemSoftwareVersion=;CDN=http://github.com/LuanTele
 Dest=8F;CompatibleSystemSoftwareVersion=1.0000-;
 Dest=8F;ImageVersion=99999;SystemSoftwareVersion=;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
 
-#Debug (Only with Dex Kernel)
+#Debug (DEX Firmware + Kernel + Debug Update)
 Dest=82;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9000;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/DBG/EvilNat_DPEX_-_4.89.PUP;CDN_Timeout=30;
+
+Dest=82;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/DBG/Rebug_DREX_-_4.84.PUP;CDN_Timeout=30;
