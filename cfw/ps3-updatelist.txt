@@ -37,7 +37,7 @@ Dest=8F;ImageVersion=99999;SystemSoftwareVersion=;CDN=http://github.com/LuanTele
 
 #Debug (DEX Firmware + Kernel + Debug Update)
 Dest=82;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=48900;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/DBG/EvilNat_DPEX_-_4.89.PUP;CDN_Timeout=30;
+Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.8900;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/DBG/EvilNat_4.89_DPEX.PUP;CDN_Timeout=30;
 
 Dest=82;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=48400;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/DBG/Rebug_DREX_-_4.84.PUP;CDN_Timeout=30;
+Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.8400;CDN=http://github.com/LuanTeles/DB_Firmware_Update/releases/download/DBG/Rebug_4.84_DREX.PUP;CDN_Timeout=30;
