@@ -17,5 +17,5 @@ Custom Firmware Updates server for PS3™ 4K Pro, when a system update is releas
 
  
 # Credits 
-@PS3Xploit, @EvilNat and Sony Interactive Entertainment Inc.
+@PS3Xploit, @EvilNat, @Littlebalup and Sony Interactive Entertainment Inc.
 </div>
