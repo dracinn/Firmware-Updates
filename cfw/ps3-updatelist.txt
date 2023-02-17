@@ -48,7 +48,7 @@ Dest=8F;ImageVersion=FFFFFFFF;SystemSoftwareVersion=;CDN=http://github.com/PS3-4
 
 #Debug (DEX Firmware + Kernel + Debug Update)
 Dest=82;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.8900;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/DBG/EvilNat_4.89_DPEX.PUP;CDN_Timeout=30;
+Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=5.8900;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/DBG/EvilNat_4.89_DPEX.PUP;CDN_Timeout=30;
 
 Dest=82;CompatibleSystemSoftwareVersion=1.0000-;
 Dest=82;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.8400;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/DBG/Rebug_4.84_DREX.PUP;CDN_Timeout=30;
