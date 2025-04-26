@@ -1,7 +1,7 @@
 <div align="center"> 
 
 # Firmware Update Server
-Custom Firmware Updates server for PS3™ 4K Pro, when a system update is released, the system will prompt to install the latest jailbreak firmware instead of the official firmware.
+CFW Updates server for PS3™, when a system update is released, the system will prompt to install the latest jailbreak firmware instead of the official firmware.
 
 [![Github downloads (by repository)](https://img.shields.io/github/downloads/LuanTeles/DB-Firmware-Updates/total.svg?style=social)](https://github.com/LuanTeles/DB-Firmware-Updates/releases)
 
