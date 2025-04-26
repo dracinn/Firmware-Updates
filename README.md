@@ -11,9 +11,9 @@ Custom Firmware Updates server for PS3™ 4K Pro, when a system update is releas
   
 | JAILBREAK TYPE | FIRMWARE VERSION
 |-----------|-------------------------
-| CFW |⠀EvilNat 4.91.2 PEX
-| DBG |⠀EvilNat 4.91.2 D-PEX and Rebug 4.84.3 D-REX
-| HFW |⠀Hybrid Firmware 4.91
+| CFW |⠀EvilNat 4.92 PEX
+| DBG |⠀EvilNat 4.92 D-PEX and Rebug 4.84.3 D-REX
+| HFW |⠀Hybrid Firmware 4.92
 
  
 # Credits 
