@@ -13,7 +13,7 @@ CFW Updates server for PS3™, when a system update is released, the system will
 |-----------|-------------------------
 | CFW |⠀EvilNat 4.93 CEX
 | DBG |⠀EvilNat 4.93 PEX and Rebug 4.84.3 D-REX
-| HFW |⠀Hybrid Firmware 4.92
+| HFW |⠀Hybrid Firmware 4.93.1
 
  
 # Credits 
