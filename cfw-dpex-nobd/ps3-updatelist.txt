@@ -1,0 +1,16 @@
+#Debug (D-PEX noBD Firmware + Kernel + Debug Update)
+Dest=82;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=82;ImageVersion=000108dd;SystemSoftwareVersion=4.9300;CDN=https://github.com/dracinn/Firmware-Updates/releases/download/CFW_4.93_Evilnat_Cobra_8.5_DPEX_noBD/PS3UPDAT.PUP;CDN_Timeout=30;
+
+Dest=81;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=81;ImageVersion=000108dd;SystemSoftwareVersion=4.9300;CDN=https://github.com/dracinn/Firmware-Updates/releases/download/CFW_4.93_Evilnat_Cobra_8.5_DPEX_noBD/PS3UPDAT.PUP;CDN_Timeout=30;
+
+Dest=80;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=80;ImageVersion=000108dd;SystemSoftwareVersion=4.9300;CDN=https://github.com/dracinn/Firmware-Updates/releases/download/CFW_4.93_Evilnat_Cobra_8.5_DPEX_noBD/PS3UPDAT.PUP;CDN_Timeout=30;
+
+Dest=79;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=79;ImageVersion=000108dd;SystemSoftwareVersion=4.9300;CDN=https://github.com/dracinn/Firmware-Updates/releases/download/CFW_4.93_Evilnat_Cobra_8.5_DPEX_noBD/PS3UPDAT.PUP;CDN_Timeout=30;
+
+Dest=8E;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=8E;ImageVersion=000108dd;SystemSoftwareVersion=4.9300;CDN=https://github.com/dracinn/Firmware-Updates/releases/download/CFW_4.93_Evilnat_Cobra_8.5_DPEX_noBD/PS3UPDAT.PUP;CDN_Timeout=30;
+
