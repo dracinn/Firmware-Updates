@@ -11,10 +11,10 @@ CFW Updates server for PS3™, when a system update is released, the system will
   
 | JAILBREAK TYPE | FIRMWARE VERSION
 |-----------|-------------------------
-| CFW |⠀EvilNat 4.93 CEX, noBD, noBT, noBD+noBT
-| CFW-PEX |⠀EvilNat 4.93 PEX, noBD, noBT, noBD+noBT
-| DBG |⠀EvilNat 4.93 D-PEX, noBD, noBT, noBD+noBT
-| HFW |⠀Hybrid Firmware 4.93.1
+| CFW-CEX |⠀Evilnat 4.93 Cobra 8.5 CEX (Standard, noBD, noBT, noBD+noBT)
+| CFW-PEX |⠀Evilnat 4.93 Cobra 8.5 PEX (Standard, noBD, noBT, noBD+noBT)
+| CFW-DPEX |⠀Evilnat 4.93 Cobra 8.5 D-PEX (Standard, noBD, noBT, noBD+noBT)
+| HFW |⠀Evilnat 4.93.1 HFW
 
  
 # Credits 

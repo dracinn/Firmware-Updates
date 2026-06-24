@@ -1,4 +1,4 @@
-#Debug (D-PEX Firmware + Kernel + Debug Update)
+#D-PEX
 Dest=82;CompatibleSystemSoftwareVersion=1.0000-;
 Dest=82;ImageVersion=000108dd;SystemSoftwareVersion=4.9300;CDN=https://github.com/dracinn/Firmware-Updates/releases/download/CFW_4.93_Evilnat_Cobra_8.5_DPEX/PS3UPDAT.PUP;CDN_Timeout=30;
 
